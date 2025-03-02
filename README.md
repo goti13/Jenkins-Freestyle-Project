@@ -7,6 +7,7 @@ A Jenkins job represents a specific task or set of tasks that needs to be perfor
 
 # Creating a Freestyle Project
 Let's create our first build job
+
 i. From the dashboard menu on the left side, click on new item
 
 ![image](https://github.com/user-attachments/assets/21cb7518-59b3-4e2d-86f2-1e85f78d6cd2)
